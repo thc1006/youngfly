@@ -13,7 +13,7 @@
 - 親愛的未來團隊，在這條~~佈滿荊棘~~的執行計畫道路，你不是一個人，我希望可以幫助到所有願意促進台灣社會創新的團隊（不侷限於 Young飛全球行動計畫團隊）。**最後，無論你選擇了什麼路，我都希望你可以在執行的過程中獲得幸運女神的眷顧，等各位團隊未來有能力了，記得也要回饋計畫、回饋社會，讓台灣因為有你們的存在而變得更好！**
 
 ## 團隊媒體連結
-- Website：https://www.nycutaigi.com/
+- Website: https://www.nycutaigi.com/
 - Facebook: https://www.fb.com/nycutaigi
 - Instagram: https://www.instagram.com/nycu_taigi/
 - YouTube: https://www.youtube.com/@tai-gi
