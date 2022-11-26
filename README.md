@@ -1,4 +1,6 @@
 # youngfly
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/youtube/master/LICENSE)
+
 ## 語您童行Tai-Gi
 - 111年教育部青年署 Young飛全球行動計畫團隊
 - 國立陽明交通大學博雅書苑 Active learning 學生自主學習計畫團隊
