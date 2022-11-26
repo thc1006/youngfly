@@ -2,8 +2,22 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/youtube/master/LICENSE)
 
 ## 語您童行Tai-Gi
+
+### 團隊媒體連結
+- Website: https://www.nycutaigi.com/
+- Facebook: https://www.fb.com/nycutaigi
+- Instagram: https://www.instagram.com/nycu_taigi/
+- YouTube: https://www.youtube.com/@tai-gi
+- 電子信箱: nycu.taigi@gmail.com
+
+### 參與政府/民間組織計畫
 - 111年教育部青年署 Young飛全球行動計畫團隊
 - 國立陽明交通大學博雅書苑 Active learning 學生自主學習計畫團隊
+- 2022年 臺灣科學節- Taiwan Science Festival (11/11-11/13 D17攤位)
+- 國家高速網路與計算中心/國立教育廣播電臺 -蔡秀吉隊長專訪（台語科普計劃）
+- 新竹縣政府教育局 Let's Talk 大學聲
+- 國家高速網路與計算中心/教育部青年署 2022全國科學探究競賽這樣教我就懂
+- SITCON X 學生計算機年會 中央研究院 人文社會科學館
 
 ## 前言
 - 開源資料是加速台灣產業創新、社群建立的重要推手之一
@@ -24,9 +38,3 @@
 ## 身為領導者需要注意的點（待補）
 - 前期可以先以能力進行工作分配，但想要團隊長久運行，必定需要依照成員的熱忱來進行分工（共識營或2.0後），成員做自己有熱忱的事物，即使不太會但很願意學習，學自己喜歡的也會變得很快。
 
-## 團隊媒體連結
-- Website: https://www.nycutaigi.com/
-- Facebook: https://www.fb.com/nycutaigi
-- Instagram: https://www.instagram.com/nycu_taigi/
-- YouTube: https://www.youtube.com/@tai-gi
-- 電子信箱: nycu.taigi@gmail.com
