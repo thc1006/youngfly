@@ -1,16 +1,14 @@
-# youngfly
+# Young飛全球行動計畫團隊 -語您童行Tai-Gi
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/youtube/master/LICENSE)
 
-## 語您童行Tai-Gi
-
-### 團隊媒體連結
+## 團隊媒體連結
 - Website: https://www.nycutaigi.com/
 - Facebook: https://www.fb.com/nycutaigi
 - Instagram: https://www.instagram.com/nycu_taigi/
 - YouTube: https://www.youtube.com/@tai-gi
 - 電子信箱: nycu.taigi@gmail.com
 
-### 參與政府/民間組織計畫
+## 參與政府/民間組織計畫
 - 111年教育部青年署 Young飛全球行動計畫團隊
 - 國立陽明交通大學博雅書苑 Active learning 學生自主學習計畫團隊
 - 2022年 11/11-11/13 臺灣科學節- Taiwan Science Festival (D-17攤位)
