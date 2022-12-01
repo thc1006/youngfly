@@ -4,6 +4,6 @@
 - 特此標示本台與兒童劇本授權方式：姓名標示4.0 國際— CC BY 4.0 - Creative Commons
 
 # Creative Commons Attribution 4.0 International License (CC BY 4.0)
-This work is licensed under the Creative Commons Attribution 4.0 International
+- This work is licensed under the Creative Commons Attribution 4.0 International
 License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+- To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
