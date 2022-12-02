@@ -16,3 +16,6 @@
   - Noto Sans CJK TC 本人僅安裝 Regular跟 Black。
 ## 無法使用請聯繫我
 - mail: hctsai.be10@nycu.edu.tw
+## 授權方式 license
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/youtube/master/LICENSE)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
