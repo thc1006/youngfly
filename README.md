@@ -17,7 +17,7 @@
 - [國家高速網路與計算中心/國立教育廣播電臺 -蔡秀吉隊長專訪 台語科普計劃](https://youtu.be/kFLzGh1yYrY)
 - 新竹縣政府教育局 Let's Talk 大學聲
 - [國家高速網路與計算中心/教育部青年署 2022全國科學探究競賽這樣教我就懂 本土語言推廣最佳代表作](https://youtu.be/M1Y5PLaM8Uw)
-- [SITCON X 學生計算機年會 中央研究院 人文社會科學館](https://sitcon.org/2022/agenda/3a7dd1/)
+- [SITCON X 學生計算機年會 中央研究院人文社會科學館-全台語 5G O-RAN 技術演講](https://sitcon.org/2022/agenda/3a7dd1/)
 
 ## 前言
 - 開源資料是加速台灣產業創新、社群建立的重要推手之一
