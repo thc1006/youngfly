@@ -9,14 +9,15 @@
 - YouTube: https://www.youtube.com/@tai-gi
 - 電子信箱: nycu.taigi@gmail.com
 
-## 參與政府/民間組織計畫
-- 111年教育部青年署 Young飛全球行動計畫團隊
-- 國立陽明交通大學博雅書苑 Active learning 學生自主學習計畫團隊
-- 2022年 11/11-11/13 臺灣科學節- Taiwan Science Festival (D-17攤位)
-- 國家高速網路與計算中心/國立教育廣播電臺 -蔡秀吉隊長專訪（台語科普計劃）
+## 榮耀
+- [111年教育部青年署 Young飛全球行動計畫 卓越行動獎（年度績優團隊）](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&sms=169B8E91BB75571F&s=C27DAF48B7A92FE1)
+- 國立陽明交通大學博雅書苑 Active learning 學生自主學習計畫團隊-年度特優（全校第一）
+- [2022/12/07 公共電視台專訪](https://youtu.be/bsSH0ZJBX2s)
+- 2022/11/11-11/13 臺灣科學節- Taiwan Science Festival 多元文化區 (D-17 攤位)
+- [國家高速網路與計算中心/國立教育廣播電臺 -蔡秀吉隊長專訪 台語科普計劃](https://youtu.be/kFLzGh1yYrY)
 - 新竹縣政府教育局 Let's Talk 大學聲
-- 國家高速網路與計算中心/教育部青年署 2022全國科學探究競賽這樣教我就懂
-- SITCON X 學生計算機年會 中央研究院 人文社會科學館
+- [國家高速網路與計算中心/教育部青年署 2022全國科學探究競賽這樣教我就懂 本土語言推廣最佳代表作](https://youtu.be/M1Y5PLaM8Uw)
+- [SITCON X 學生計算機年會 中央研究院 人文社會科學館](https://sitcon.org/2022/agenda/3a7dd1/)
 
 ## 前言
 - 開源資料是加速台灣產業創新、社群建立的重要推手之一
