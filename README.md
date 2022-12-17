@@ -2,8 +2,11 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/youtube/master/LICENSE)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-# 111年度 Young飛全球行動計畫卓越行動獎（績優團隊）
-![](https://i.imgur.com/GuFsn3B.jpg=70%x)
+## 111年度 Young飛全球行動計畫卓越行動獎（績優團隊）
+<p align="center">
+  <img src="https://i.imgur.com/GuFsn3B.jpg" alt="與教育部青年署長合照"width='50%' height='50%'/>
+</p>
+
 ## 團隊媒體連結
 - Website: https://www.nycutaigi.com/
 - Facebook: https://www.fb.com/nycutaigi
