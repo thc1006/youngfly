@@ -1,7 +1,8 @@
-# 111年度 Young飛全球行動計畫績優團隊 -語您童行Tai-Gi 經驗分享
+# Young飛全球行動計畫經驗分享
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/youtube/master/LICENSE)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
+## 111年度 Young飛全球行動計畫績優團隊 -語您童行Tai-Gi 
 ## 團隊媒體連結
 - Website: https://www.nycutaigi.com/
 - Facebook: https://www.fb.com/nycutaigi
