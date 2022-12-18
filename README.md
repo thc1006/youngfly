@@ -8,7 +8,7 @@
 </p>
 
 ## 團隊媒體連結
-- Website: https://www.nycutaigi.com/
+- 官方網站: https://www.nycutaigi.com/
 - Facebook: https://www.fb.com/nycutaigi
 - Instagram: https://www.instagram.com/nycu_taigi/
 - YouTube: https://www.youtube.com/@tai-gi
