@@ -27,10 +27,10 @@
 - 由於教育部電腦為 office2016，如果你的簡報是採用 Office 2019 或 Office 365 等以上版本製作，可能會有排版及字體遺失問題，
 #### 簡報呈現問題
  - 成果簡報換成Pdf（但就沒有動畫）
- - 或是換成jpg 再將相片貼回PPT，這樣當天簡報pptx 就不會跑版了，而且簡報又可以保留部分動畫
+ - 或是換成jpg 再將相片貼回PPT，這樣當天簡報pptx 就不會跑版了，而且簡報又可以保留部分動畫。
 ### 簡報口語呈現
 - 參考資料：https://youtu.be/_7KtOqq4_Yo（影片真的有用但自行斟酌調整）
-- **適當政治語言**：有加分以及鼓勵在座所有團隊的作用
+- **政治語言**：適當的加入政治語言，會有加分以及鼓勵在座所有團隊的作用。
 ### 其他資料
 - google雲端資料夾中也檢附了簡報會用到的開源可商用免費的字體供下載。
   - https://drive.google.com/drive/folders/18TifE2xlj1jCav-jdedB-8iJ2pUbNWb2?usp=share_link
@@ -38,6 +38,7 @@
   - Noto Sans CJK TC 本人僅安裝 Regular跟 Black。
 ### 無法使用請聯繫我
 - mail: hctsai.be10@nycu.edu.tw
+- fb:https://www.fb.com/thc1006
 ## 授權方式 license
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/youtube/master/LICENSE)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
