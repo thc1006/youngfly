@@ -1,4 +1,4 @@
-# Young飛全球行動計畫經驗分享 -語您童行Tai-Gi 
+# Young飛全球行動計畫心得
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/youtube/master/LICENSE)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -24,6 +24,7 @@
 - [國家高速網路與計算中心/教育部青年署 2022全國科學探究競賽這樣教我就懂 本土語言推廣最佳代表作](https://youtu.be/M1Y5PLaM8Uw)
 - [SITCON X 學生計算機年會 中央研究院人文社會科學館-全台語 5G O-RAN 技術演講](https://sitcon.org/2022/agenda/3a7dd1/)
 
+# Young飛全球行動計畫經驗分享 -語您童行Tai-Gi 
 ## 前言
 - 開源資料是加速台灣產業創新、社群建立的重要推手之一
 - 語您童行Tai-Gi，全台第一個將資料將執行計畫開源的 Young飛全球行動計畫團隊；由於發現歷屆的 Young飛全球行動計畫團隊（即使是通過 3.0審查的績優團隊），都沒有留下得以**加速未來團隊「品牌建立、團隊共識建立、敏捷建立社群、影響力如何評估、審查簡報」的永續執行傳承資料。**
