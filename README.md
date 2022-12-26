@@ -15,7 +15,7 @@
 - 電子信箱: nycu.taigi@gmail.com
 
 ## 榮耀
-- [111年教育部青年署 Young飛全球行動計畫 卓越行動獎（年度績優團隊）](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&sms=169B8E91BB75571F&s=C27DAF48B7A92FE1)
+- [111年教育部青年署 Young飛全球行動計畫 卓越行動獎（年度績優團隊）](https://www.yda.gov.tw/fileRename/fileRename.aspx?uid=60&fid=15866&kid=2&site_id=1)
 - 國立陽明交通大學博雅書苑 Active learning 學生自主學習計畫團隊-年度特優（全校第一）
 - [2022/12/07 公共電視台專訪](https://youtu.be/bsSH0ZJBX2s)
 - 2022/11/11-11/13 臺灣科學節- Taiwan Science Festival 多元文化區 (D-17 攤位)
