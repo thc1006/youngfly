@@ -1,6 +1,6 @@
 # 行動方案 2.0審查簡報檔
 - 簡報已經內嵌所有字體，由於 Github 上傳檔案有 25MB大小限制，因此暫存在本人 NYCU網域的 Google雲端上。
-  - https://drive.google.com/drive/folders/1vYqVZLKzGicrWoxb9hYXz3U1xDjQMjZQ?usp=share_link
+  - 簡報下載連結：https://drive.google.com/drive/folders/1vYqVZLKzGicrWoxb9hYXz3U1xDjQMjZQ?usp=share_link
 ## 簡報準備方向
   - 數位永續行動方案具**可執行性、發展性及影響性**
   - 數位永續行動方案與**擬訪談國際組織**聯結性
