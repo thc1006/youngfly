@@ -4,6 +4,7 @@
 - 英文諮詢信模板下載：https://drive.google.com/file/d/1ORu50zUcIxjjBrRqBfuB5c-jx2XK0H8Q/view?usp=share_link
 
 ## 聯繫資料
+- 團隊官網：https://www.nycutaigi.com/
 - 游蕙伃 IG: https://www.instagram.com/yu_hui_yu/
 - 蔡秀吉：https://www.facebook.com/thc1006
 
