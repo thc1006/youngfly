@@ -1,4 +1,6 @@
 # 112年Young飛全球行動計畫-共識營資料
+## 重要資訊
+**游蕙伃已退出語您童行**，她於共識營的所發表的所有言論，不代表團隊立場！
 ## 共識營簡報
 - 下載連結：https://drive.google.com/file/d/1ItjvcQ6k-6y8xMAc72ApF1zRZodegMxr/view?usp=share_link
 - 英文諮詢信模板下載：https://drive.google.com/file/d/1ORu50zUcIxjjBrRqBfuB5c-jx2XK0H8Q/view?usp=share_link
