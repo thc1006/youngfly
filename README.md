@@ -15,6 +15,8 @@
 - 電子信箱: nycu.taigi@gmail.com
 
 ## 榮耀
+- 2023年第八屆台積電青年築夢計畫入圍（進行中）
+- [112學年度國立陽明交通大學博雅書苑 Active learning 學生自主學習計畫團隊-年度優等](https://www.facebook.com/YangMingChiaoTung/posts/pfbid02pdqk6vzzMBajJ1GvBMr18WUY63PPPrCZoS1oFctEnWJyTSvau5Ztvmu1UDH1o3j7l)
 - [111年教育部青年署 Young飛全球行動計畫 卓越行動獎（年度績優團隊）](https://www.yda.gov.tw/fileRename/fileRename.aspx?uid=60&fid=15866&kid=2&site_id=1)
 - 國立陽明交通大學博雅書苑 Active learning 學生自主學習計畫團隊-年度特優（全校第一）
 - [2022/12/07 公共電視台專訪](https://youtu.be/bsSH0ZJBX2s)
