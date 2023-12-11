@@ -7,6 +7,8 @@
   <img src="https://i.imgur.com/GuFsn3B.jpg" alt="與教育部青年署長合照"width='50%' height='50%'/>
 </p>
 
+## <p align="center">不要等到有足夠資源才，去做某件事，而是你開始做了，才會有資源</p>
+
 ## 團隊媒體連結
 - 官方網站: https://www.nycutaigi.com/
 - Facebook: https://www.fb.com/nycutaigi
