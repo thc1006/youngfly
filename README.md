@@ -52,6 +52,10 @@
 
 ## 國際連結過程（待補）
 
+## 在地行動表單設計
+- [在地行動表單後台（請不要任意進行編輯）](https://docs.google.com/forms/d/e/1FAIpQLSesW7CpUMEPM-szp7sOeoezUvRYVvoTBtBe7K0XRWVZ4AuCiQ/viewform?usp=sharing)
+- 語言傳承團隊研究架構：https://hackmd.io/@thc1006/BkYK58Eii
+
 ## 身為領導者需要注意的點（待補）
 - 前期可以先以能力進行工作分配，但想要團隊長久運行，必定需要依照成員的熱忱來進行分工（共識營或2.0後），成員做自己有熱忱的事物，即使不太會但很願意學習，學自己喜歡的也會變得很快。
 
