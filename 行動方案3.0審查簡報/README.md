@@ -1,8 +1,8 @@
 # 行動方案3.0審查簡報檔
 - 簡報已經內嵌所有字體，由於 GitHub 上傳檔案有 25MB 大小限制，因此暫存在本人 Google雲端上。
-  - 簡報下載連結：https://drive.google.com/drive/folders/12Q_tTrlu4uedRtcmwfza3HuyM87z8hC6?usp=share_link
+  - 簡報下載連結：https://drive.google.com/drive/folders/13U_XUYqpQR6JcWDMeGlXjZNU9HRWHQNO?usp=drive_link
 - Google 雲端資料夾中也檢附了簡報會用到的開源可商用免費的字體供下載。
-  - https://drive.google.com/drive/folders/18TifE2xlj1jCav-jdedB-8iJ2pUbNWb2?usp=share_link
+  - https://drive.google.com/drive/folders/1OzcWYGtFusVNPvrhElBRAcQ0-PrGIGtO?usp=drive_link
   - Noto Sans TC 本人僅安裝 Regular跟 Black。
   - Noto Sans CJK TC 本人僅安裝 Regular跟 Black。
 ## 無法使用請聯繫我
