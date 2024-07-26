@@ -7,7 +7,7 @@
   - 綜合考評團隊合作、現場應對與表現、其他
   
 ### 影響力成效評估表單設計
-- 研究方法參考文獻
+- [研究方法參考文獻](https://drive.google.com/drive/folders/18EcWTB4ovQU8mmt2lIDB1gJ99jCsMsOx?usp=drive_link)
   - 語言使用與客家認同關係之研究—以三義鯉魚潭村為例
   - 探討客籍家長對幼兒客語教學的態度-以台北市幼兒園為例
 - 研究工具 
